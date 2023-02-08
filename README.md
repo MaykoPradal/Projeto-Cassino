@@ -25,3 +25,4 @@ Exemplo: número principal: 1
 RASPADINHA B: A Raspadinha de tipo B tem um custo de R$2,00 por jogo, possui um número principal e 10 números a serem sorteados aleatóriamente de 1 a 9, e um valor de prêmio
 préviamente definido aleatóriamente pelo sistema, ao qual se forem sorteados 3 números ou mais iguais ao número principal, o usuário sai prêmiado.
 o valor do prêmio é de 1 a 1000 reais. ao qual, se o usuário for prêmiado o valor é somado ao seu saldo.
+
