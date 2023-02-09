@@ -1,4 +1,21 @@
 # Projeto-Cassino
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Este é um projeto feito em C# usando o visual studio community, guiado e mentorado pelo profª Bruno Santos ( https://www.youtube.com/@brunofrs7 ).
 se trata de uma aplicação de jogos que possuem dois jogos e um deles possue uma vertente.
 possui um "cadastro" de usuario com carteira de saldo em R$ ao qual ja se inicia com R$100,00. E um sistema de depósitos e saques para criar uma imersão nos jogos.
