@@ -160,7 +160,7 @@ namespace Projeto_Cassino
             saldo -= 2;
 
             int nprincipal = rnd.Next(1, 10);
-            int premio = rnd.Next(1, 100);
+            int premio = rnd.Next(1, 1001);
 
             int n1 = rnd.Next(1, 10);
             int n2 = rnd.Next(1, 10);
@@ -258,10 +258,12 @@ namespace Projeto_Cassino
             while (njogador < 1000 || njogador > 9999)
             {
                 Console.Clear();
-                Console.WriteLine("Qual jogo quer fazer em nossa loteria? digite 4 numeros de 1000 a 9999. ");
+                Console.WriteLine("Saldo atual: R$" + saldo);
+                Console.WriteLine("              ");
                 Console.WriteLine("Nesta rodada o 1° Prêmio é: R$" + premio);
                 Console.WriteLine("Nesta rodada o 2° Prêmio é: R$" + premio * 0.50);
                 Console.WriteLine("Nesta rodada o 3° Prêmio é: R$" + premio * 0.20);
+                Console.WriteLine("Qual jogo quer fazer em nossa loteria? digite 4 numeros de 1000 a 9999. ");
                 njogador = int.Parse(Console.ReadLine());
 
             }
