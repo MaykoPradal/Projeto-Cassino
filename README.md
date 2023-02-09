@@ -16,6 +16,7 @@ A Raspadinha de tipo A tem um custo de R$2,00 por jogo, possui um numero princip
 cada numero com um valor monetario aleatório associado a ele.
 caso o numero principal seja igual a 1 ou mais dos 5 numeros gerados (de 1 a 9) o prêmio é a soma dos valores associados a posição do numero igual ao numero principal sorteado.
 (todos os números sorteados e valores da premiação são gerados aleatóriamente pelo sistema.)
+
 Exemplo: número principal: 1
 	1ª numero: 8 (R$100,00)
 	2ª numero: 1 (R$1,00)
